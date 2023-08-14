@@ -1,10 +1,8 @@
 # React summary
 
-Date Created: October 25, 2022 3:09 PM
-Link: https://reactjs.org/
-Status: stoped
-Summary: No
-type: Library, front-end, programming
+- Date Created: October 25, 2022 
+- Link: https://reactjs.org/
+
 
 ## Links
 
